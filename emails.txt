@@ -1,0 +1,2 @@
+mail@mail.ru|pop.mail.ru|login|password|POP3
+my_mail@front.ru|mail.hotbox.ru|login|password|IMAP
